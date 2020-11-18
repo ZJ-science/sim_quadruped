@@ -1,0 +1,8 @@
+prefix=/home/zj-robot/catkin_ws/install
+
+Name: mini_2
+Description: Description of mini_2
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
